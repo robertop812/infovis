@@ -1,0 +1,7 @@
+Parallel Coordinates
+Cartograms
+Node-Link Diagrams
+Adjacency Diagrams
+Enclosure Diagrams
+Force-Directed Layout
+Arc Diagrams
