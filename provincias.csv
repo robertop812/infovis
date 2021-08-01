@@ -1,4 +1,4 @@
-categoria,centroide_lat,centroide_lon,fuente,id,iso_id,iso_nombre,nombre,nombre_completo,partido_politico
+categoria,centroide_lat,centroide_lon,fuente,id,iso_id,iso_nombre,nombre_completo,partido_politico
 Provincia,-26.8753965086829,-54.6516966230371,IGN,54,AR-N,Misiones,Provincia de Misiones,FdT
 Provincia,-33.7577257449137,-66.0281298195836,IGN,74,AR-D,San Luis,Provincia de San Luis,FdT
 Provincia,-30.8653679979618,-68.8894908486844,IGN,70,AR-J,San Juan,Provincia de San Juan,FdT
@@ -20,6 +20,6 @@ Provincia,-24.2991344492002,-64.8144629600627,IGN,66,AR-A,Salta,Provincia de Sal
 Provincia,-26.3864309061226,-60.7658307438603,IGN,22,AR-H,Chaco,Provincia del Chaco,FdT
 Provincia,-24.894972594871,-59.9324405800872,IGN,34,AR-P,Formosa,Provincia de Formosa,FdT
 Provincia,-23.3200784211351,-65.7642522180337,IGN,38,AR-Y,Jujuy,Provincia de Jujuy,FdT
-Ciudad Autónoma,-34.6144934119689,-58.4458563545429,IGN,02,AR-C,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,JxC
+Ciudad Autonoma,-34.6144934119689,-58.4458563545429,IGN,02,AR-C,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,JxC
 Provincia,-36.6769415180527,-60.5588319815719,IGN,06,AR-B,Buenos Aires,Provincia de Buenos Aires,FdT
 Provincia,-54.8083333,-68.3083333,IGN,94,AR-V,Tierra del Fuego,Provincia de Tierra del Fuego,JxC
